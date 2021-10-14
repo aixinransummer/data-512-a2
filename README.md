@@ -36,6 +36,6 @@ Two metrics are computed for each country and region in the analysis step. The f
 There are six tables in total listed as final results. The first four tables contain the top and bottom 10 countries by articles-per-population rate and high-quality-articles rate. The last two tables rank the regions in descending order in terms of the two metrics as well. By observing the results in the six tables, we reflected on the potential limitation and bias in the data in the [jupyter nobebook](hcds-a2-bias.ipynb).
 
 ## License
-Licensed uder the [MIT License](LICENSE),
+Licensed uder the [MIT License](LICENSE).
 
 
